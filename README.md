@@ -1,7 +1,7 @@
 # led-flasher
-beee lab
-Aim:-To make a led  flasher using arduino
-EQUIPMENTS:-  bread board,arduino,connecting wires,arduino board,resistor,led bulbs
+beee lab.
+Aim:-To make a led  flasher using arduino.
+EQUIPMENTS:-  bread board,arduino,connecting wires,arduino board,resistor,led bulbs.
 CODE:-
       void setup()
 
